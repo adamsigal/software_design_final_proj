@@ -1,7 +1,11 @@
 # Analyse et Conception - TP3
 ## Note:
-*This is the final project for the course "Software Design and Analysis" (IFT 3911) at Université de Montréal. I did this project with 3 teammates whose identities I have hidden for their privacy. The premise of this project was to implement, in groups of 4, a project design from a previous assignment that had been done in groups of 2. Consequently, I only made small contributions to the design of this project, since my partner (teammate 3) and I had made a parallel design for the previous assignment. Rest assured, I did my part of coding (otherwise I wouldn't have posted this). I am keeping this on my GitHub portfolio to serve as an example of a large project that I worked on, for those who are interested in seeing an example of my code. I have indicated sections that I authored below:*
-*
+*This is the final project for the course "Software Design and Analysis" (IFT 3911) at Université de Montréal. I did this project with 3 teammates whose identities I have hidden for their privacy. The premise of this project was to implement, in groups of 4, a project design from a previous assignment that had been done in groups of 2. Consequently, I only made small contributions to the design of this project, since my partner (teammate 3) and I had made a parallel design for the previous assignment. Rest assured, I did my part of coding (otherwise I wouldn't have posted this). I am keeping this on my GitHub portfolio to serve as an example of a large project that I worked on, for those who are interested in seeing an example of my code. I have indicated sections on which I worked the most below:*
+* ClientPackage
+* ReservationPackage
+* SectionPackage
+* VehiculePackage
+* TravelPackage
 
 ---
 ## Comment rouler l'application
